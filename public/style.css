@@ -1,0 +1,28 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url(https://www.roulettesites.org/graphics/racetrack-neighbour-bet-roulette-big.jpg);
+  font-size: 25px;
+  
+}
+img{
+  height: 200px;
+}
+select{
+  width: 30%;
+  height: 30px;
+  border-radius: 25px;
+}
+input{
+  width: 23%;
+  height: 30px;
+  border-radius: 25px;
+}
+#submit{
+  width: 30%;
+  height: 30px;
+  border-radius: 25px;
+}
+h1{
+  text-align: center;
+}
